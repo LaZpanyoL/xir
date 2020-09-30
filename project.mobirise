@@ -52,7 +52,8 @@
     "pwa-switcher": false,
     "uniqCompNum": 19,
     "versionPublish": "5.1.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
